@@ -1,2 +1,3 @@
-# CogControlTraining_DecisionMaking
-This repo contains the data and code to run the analyses in the 'No effects of cognitive control training on decision making in middle childhood' paper.
+# Read me
+
+Created on 25/08/2022: added data and analysis folders
